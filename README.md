@@ -2,7 +2,7 @@
 - 👀 I’m interested Android development and algorithms
 - 📘 I’m currently learning Advanced android development
 - 🖊️ I’m writing blogs on https://medium.com/@rimshadmohamed
-- 📫 How to reach me ...
+- 📫 How to reach me ... rimshadpcs@gmail.com
 
 <!---
 rimshadpcs/rimshadpcs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
