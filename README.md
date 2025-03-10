@@ -1,5 +1,6 @@
 # Hi there, I'm Mohamed Rimshad 👋
-![GitHub User's stars](https://img.shields.io/github/stars/rimshadpcs?style=social) ![](https://komarev.com/ghpvc/?rimshadpcs=your_username&color=give_your_color)
+![GitHub User's stars](https://img.shields.io/github/stars/rimshadpcs?style=social) 
+![](https://komarev.com/ghpvc/?rimshadpcs=your_username&color=give_your_color)
 
 
 **Location:** London, UK
