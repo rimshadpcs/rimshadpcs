@@ -1,6 +1,6 @@
 # Hi there, I'm Mohamed Rimshad 👋
 ![GitHub User's stars](https://img.shields.io/github/stars/rimshadpcs?style=social) ![](https://komarev.com/ghpvc/?username=your-github-rimshadpcs)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rimshadpcs&include_all_commits=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 <h3>When I code, I rely on</h3>
 <p>
   <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-B125EA?style=flat-square&logo=kotlin&logoColor=white" />
