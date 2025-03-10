@@ -1,10 +1,27 @@
-- 👋 Hi, I’m Mohamed Rimshad
-- 👀 I’m interested Android development and algorithms
-- 📘 I’m currently learning Advanced android development
-- 🖊️ I’m writing blogs on https://medium.com/@rimshadmohamed
-- 📫 How to reach me ... rimshadpcs@gmail.com
+# Hi there, I'm Mohamed Rimshad 👋
 
-<!---
-rimshadpcs/rimshadpcs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Location:** London, UK
+
+**Interests:** Android Development, Algorithms, LLM and Ai agents
+
+**Currently Learning:** Advanced Android Development, LLMS
+
+**Blog:** [Medium](https://medium.com/@rimshadmohamed)
+
+**Email:** rimshadpcs@gmail.com
+
+**Projects:**
+
+- **[Alifba](https://github.com/rimshadpcs/alifba):** A project focused on building Alifba. [Website](https://alifba.xyz)
+
+- **[AlifbaApp](https://github.com/rimshadpcs/AlifbaApp):** An Android application for Alifba.
+
+- **[AlifbaWeb](https://github.com/rimshadpcs/alifbaweb):** The web version of Alifba.
+
+- **[Foodium](https://github.com/rimshadpcs/Foodium):** A sample food blog Android application demonstrating modern Android development tools.
+
+- **[Habitica-Android](https://github.com/rimshadpcs/habitica-android):** A native Android app for Habitica.
+
+- **[Wise](https://github.com/rimshadpcs/wise):** A project named Wise.
+
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
