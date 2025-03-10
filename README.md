@@ -1,6 +1,5 @@
 # Hi there, I'm Mohamed Rimshad 👋
-![GitHub User's stars](https://img.shields.io/github/stars/rimshadpcs?style=social) ![](https://komarev.com/ghpvc/?username=your-github-rimshadpcs)
-![GitHub User's stars](https://img.shields.io/github/forks/rimshadpcs?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/rimshadpcs?style=social) ![](https://komarev.com/ghpvc/?username=your-github-rimshadpcs) [![Forks](https://img.shields.io/github/forks/rimshadpcs/repository?style=social)](https://github.com/username/repository/network/members)
 
  <h3>I work with</h3>
 <p>
