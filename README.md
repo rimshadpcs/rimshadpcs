@@ -24,6 +24,6 @@
 
 - **[Habitica-Android](https://github.com/rimshadpcs/habitica-android):** A native Android app for Habitica.
 
-- **[Wise](https://github.com/rimshadpcs/wise):** A project named Wise.
+- **[Wise](https://github.com/rimshadpcs/wise):** its a simple news app
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
