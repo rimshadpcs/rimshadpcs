@@ -3,7 +3,7 @@
 
 <h3>When I code, I rely on</h3>
 <p>
-  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-E34F26?style=flat-square&logo=kotlin&logoColor=white" />
+  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-B125EA?style=flat-square&logo=kotlin&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-JAVA-E34F26?style=flat-square&logo=java&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-PYTHON-E34F26?style=flat-square&logo=python&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -17,7 +17,6 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
   <img alt="Firebse" src="https://img.shields.io/badge/-Firebase-F7B93E?style=flat-square&logo=firebase&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 **Location:** London, UK
 
