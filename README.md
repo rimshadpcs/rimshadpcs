@@ -4,7 +4,7 @@
 <h3>When I code, I rely on</h3>
 <p>
   <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-B125EA?style=flat-square&logo=kotlin&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-JAVA-FAB9A8?style=flat-square&logo=java&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-FAB9A8?style=flat-square&logo=java&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-PYTHON-306998?style=flat-square&logo=python&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
