@@ -1,6 +1,5 @@
 # Hi there, I'm Mohamed Rimshad 👋
 ![GitHub User's stars](https://img.shields.io/github/stars/rimshadpcs?style=social) ![](https://komarev.com/ghpvc/?username=your-github-rimshadpcs)
- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rimshadpcs&theme=default) 
  <h3>I work with</h3>
 <p>
   <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-B125EA?style=flat-square&logo=kotlin&logoColor=white" />
