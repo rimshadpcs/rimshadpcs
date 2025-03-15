@@ -1,5 +1,5 @@
 # Hi there, I'm Mohamed Rimshad 👋
-![GitHub User's stars](https://img.shields.io/github/stars/rimshadpcs?style=social)
+Stars on my repos ![GitHub User's stars](https://img.shields.io/github/stars/rimshadpcs?style=social)
 
  <h3>I work with</h3>
 <p>
