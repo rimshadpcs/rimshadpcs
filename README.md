@@ -24,7 +24,7 @@ Stars on my repos ![GitHub User's stars](https://img.shields.io/github/stars/rim
 **Currently Learning:** Advanced Android Development, LLMS
 
 **Blog:** [Medium](https://medium.com/@rimshadmohamed)
-**Portfolio:** [Medium](https://rimshad.dev)
+**Portfolio:** [Portfolio](https://rimshad.dev)
 
 **Email:** rimshadpcs@gmail.com
 
