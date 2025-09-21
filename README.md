@@ -24,16 +24,11 @@ Stars on my repos ![GitHub User's stars](https://img.shields.io/github/stars/rim
 **Currently Learning:** Advanced Android Development, LLMS
 
 **Blog:** [Medium](https://medium.com/@rimshadmohamed)
+**Portfolio:** [Medium](https://rimshad.dev)
 
 **Email:** rimshadpcs@gmail.com
 
-**Projects:**
-
-- **[Alifba](https://github.com/rimshadpcs/alifba):** A project focused on building Alifba. [Website](https://alifba.xyz)
-
-- **[AlifbaApp](https://github.com/rimshadpcs/AlifbaApp):** An Android application for Alifba.
-
-- **[AlifbaWeb](https://github.com/rimshadpcs/alifbaweb):** The web version of Alifba.
+**Some of my open source contribution:**
 
 - **[Foodium](https://github.com/rimshadpcs/Foodium):** A sample food blog Android application demonstrating modern Android development tools.
 
