@@ -17,11 +17,10 @@ Stars on my repos ![GitHub User's stars](https://img.shields.io/github/stars/rim
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Firebse" src="https://img.shields.io/badge/-Firebase-FFA611?style=flat-square&logo=firebase&logoColor=white" />
 </p>
-**Location:** London, UK
 
 **Interests:** Android Development, Algorithms, LLM and Ai agents
 
-**Currently Learning:** Advanced Android Development, LLMS
+**Currently Learning:** Advanced Mobile app Development, LLMS
 
 **Blog:** [Medium](https://medium.com/@rimshadmohamed)
 **Portfolio:** [Portfolio](https://rimshad.dev)
