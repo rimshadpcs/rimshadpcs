@@ -36,3 +36,4 @@ Stars on my repos ![GitHub User's stars](https://img.shields.io/github/stars/rim
 - **[Wise](https://github.com/rimshadpcs/wise):** its a simple news app
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
+Last repository readme updated on 24/09/2025
